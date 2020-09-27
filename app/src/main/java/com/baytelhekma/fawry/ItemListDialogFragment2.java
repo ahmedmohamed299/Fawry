@@ -36,8 +36,8 @@ import java.util.UUID;
 public class ItemListDialogFragment2 extends BottomSheetDialogFragment  {
     String merchantRefNum;
     public static final int PAYMENT_PLUGIN_REQUEST = 201;
-    public static String merchantCODE="q4M2SYnoFiG6h4pxxCxOaw==";
-    String url="https://www.atfawry.com";
+    public static String merchantCODE="";
+    String url="https://atfawry.fawrystaging.com";
     PayableItem payableItem;
     List<PayableItem> items;
     private static final String ALPHA_NUMERIC_STRING = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
