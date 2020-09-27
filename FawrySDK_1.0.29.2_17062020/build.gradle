@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('FawrySDK_1.0.29.2_17062020.aar'))
